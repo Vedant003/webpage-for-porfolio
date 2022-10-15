@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bottom-container {
+    background-color: #252A34;
+    color: #246a69;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.img-footer {
+    width: 30px;
+    height: 30px;
+    margin: 20px;
+
+
+}
+
+.img-footer:hover {
+    color: white;
+    box-shadow: #252A34;
+}
+
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
