@@ -59,6 +59,8 @@ body {
 
 .msg textarea {
     height: 212px;
+    max-width: 100%;
+
 }
 
 ::-webkit-input-placeholder {
